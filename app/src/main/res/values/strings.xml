@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KotlinRoom</string>
+    <string name="hint_word">Product...</string>
+    <string name="button_save">Save</string>
+    <string name="empty_not_saved">Product not saved because it is empty.</string>
+    <string name="add_word">Add Product</string>
+</resources>
