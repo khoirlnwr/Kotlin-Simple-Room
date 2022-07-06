@@ -57,6 +57,9 @@ class UpdateProductActivity : AppCompatActivity() {
         }
     }
 
+    fun getSize(): Int {
+        return 10
+    }
 
     companion object {
         const val EXTRA_UPDATE_REPLY = "REPLY_UPDATE"
